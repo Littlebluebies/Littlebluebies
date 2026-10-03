@@ -1,6 +1,21 @@
+<div align="center">
+
 # Thanakorn Pengklin
 
-Full-stack developer
+<a href="https://github.com/Littlebluebies">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=480&lines=Full-Stack+Developer;Cloud+Computing;Creative+%C2%B7+Content+Creator" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="mailto:thanakornpengklin@gmail.com"><img src="https://img.shields.io/badge/Email-thanakornpengklin%40gmail.com-161B22?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="MY_RESUME_LINK"><img src="https://img.shields.io/badge/CV-My_Resume-161B22?style=flat-square&logo=googledrive&logoColor=white" /></a>
+
+</div>
+
+---
+
+### About
 
 ```ts
 const thanakorn = {
@@ -12,26 +27,64 @@ const thanakorn = {
 };
 ```
 
-## Stack
+### Stack
 
-```
-languages   Python · PHP · JavaScript · TypeScript
-frontend    HTML · CSS · Bootstrap · Tailwind CSS · React · Next.js · Vite
-backend     Node.js · Express · Yii2
-database    MySQL · PostgreSQL · Firebase
-cloud       Huawei Cloud · Vercel
-tools       Docker · Git · VS Code
-network     Cisco · Huawei eKit
-creative    After Effects · Photoshop · Illustrator · Sony Vegas Pro
-```
+**Languages**
 
-## Awards
+![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-161B22?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=white)
 
-**Content creation**
+**Frontend**
 
-- RMUTT Channel Content Creator Award Season 2: **Winner, Short Clip** · 30,000 THB scholarship
+![HTML](https://img.shields.io/badge/HTML-161B22?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-161B22?style=flat-square&logo=css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-161B22?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-161B22?style=flat-square&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-161B22?style=flat-square&logo=vite&logoColor=white)
 
-**Cloud Computing Management** · AFTP vocational skills competition
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-161B22?style=flat-square&logo=express&logoColor=white)
+![Yii2](https://img.shields.io/badge/Yii2-161B22?style=flat-square&logo=php&logoColor=white)
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-161B22?style=flat-square&logo=firebase&logoColor=white)
+
+**Cloud & Tools**
+
+![Huawei Cloud](https://img.shields.io/badge/Huawei_Cloud-161B22?style=flat-square&logo=huawei&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-161B22?style=flat-square&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-161B22?style=flat-square&logo=gitforwindows&logoColor=white)
+
+**Network**
+
+![Cisco](https://img.shields.io/badge/Cisco-161B22?style=flat-square&logo=cisco&logoColor=white)
+![Huawei eKit](https://img.shields.io/badge/Huawei_eKit-161B22?style=flat-square&logo=huawei&logoColor=white)
+
+**Creative**
+
+![After Effects](https://img.shields.io/badge/After_Effects-161B22?style=flat-square&logo=adobeaftereffects&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-161B22?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-161B22?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Sony Vegas Pro](https://img.shields.io/badge/Vegas_Pro-161B22?style=flat-square&logo=sony&logoColor=white)
+
+### Awards
+
+**RMUTT Channel Content Creator Award Season 2** &nbsp;
+![Winner](https://img.shields.io/badge/Winner-Short_Clip-2EA043?style=flat-square)
+![Scholarship](https://img.shields.io/badge/Scholarship-30%2C000_THB-161B22?style=flat-square)
+
+**Cloud Computing Management** · *AFTP vocational skills competition*
 
 | Year | Level | Result |
 |:-----|:------|:-------|
@@ -42,6 +95,16 @@ creative    After Effects · Photoshop · Illustrator · Sony Vegas Pro
 | 2022 | Central Region, 30th | 2nd runner-up · Silver standard |
 | 2022 | Lopburi Province | **Winner** · Gold standard |
 
-## Contact
+### Connect
 
-[GitHub](https://github.com/Littlebluebies) · [LinkedIn](https://www.linkedin.com/in/thanakorn-pengklin) · [Facebook](https://www.facebook.com/thanakorn.eiei.90) · [Instagram](https://www.instagram.com/littlebluebies/) · [Email](mailto:thanakornpengklin@gmail.com) · [Resume](MY Resume)
+<a href="https://github.com/Littlebluebies"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/thanakorn-pengklin"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.facebook.com/thanakorn.eiei.90"><img src="https://img.shields.io/badge/Facebook-161B22?style=flat-square&logo=facebook&logoColor=white" /></a>
+<a href="https://www.instagram.com/littlebluebies/"><img src="https://img.shields.io/badge/Instagram-161B22?style=flat-square&logo=instagram&logoColor=white" /></a>
+<a href="mailto:thanakornpengklin@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=white" /></a>
+
+<br/>
+
+<div align="center">
+  <sub>building things for the web & the cloud</sub>
+</div>
