@@ -27,81 +27,87 @@ const thanakorn = {
 };
 ```
 
+### Experience & Awards
+
+- **RMUTT Channel Content Creator Award Season 2** &nbsp; ![Winner](https://img.shields.io/badge/Winner-Short_Clip-2EA043?style=flat) ![Scholarship](https://img.shields.io/badge/%F0%9F%8E%93_30%2C000_THB-Scholarship-1F6FEB?style=flat)<br/>
+  *Winner of the Short Clip category*
+
+- **Cloud Computing Management · National Level (32nd), 2024** &nbsp; ![2nd Runner-up](https://img.shields.io/badge/2nd_Runner--up-National-1F6FEB?style=flat)<br/>
+  *AFTP vocational skills competition*
+
+- **Cloud Computing Management · Central Region (31st), 2023** &nbsp; ![1st Runner-up](https://img.shields.io/badge/1st_Runner--up-Gold_Standard-D4A72C?style=flat)<br/>
+  *AFTP vocational skills competition*
+
+- **Cloud Computing Management · Lopburi Province, 2023** &nbsp; ![Winner](https://img.shields.io/badge/Winner-Gold_Standard-D4A72C?style=flat)<br/>
+  *AFTP vocational skills competition*
+
+- **Cloud Computing Management · National Level (31st), 2023** &nbsp; ![4th Runner-up](https://img.shields.io/badge/4th_Runner--up-National-1F6FEB?style=flat)<br/>
+  *AFTP vocational skills competition*
+
+- **Cloud Computing Management · Central Region (30th), 2022** &nbsp; ![2nd Runner-up](https://img.shields.io/badge/2nd_Runner--up-Silver_Standard-8B949E?style=flat)<br/>
+  *AFTP vocational skills competition*
+
+- **Cloud Computing Management · Lopburi Province, 2022** &nbsp; ![Winner](https://img.shields.io/badge/Winner-Gold_Standard-D4A72C?style=flat)<br/>
+  *AFTP vocational skills competition*
+
 ### Stack
 
-**Languages**
+#### Languages
 
-![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-161B22?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=FFD43B)
+![PHP](https://img.shields.io/badge/PHP-161B22?style=for-the-badge&logo=php&logoColor=777BB4)
+![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=3178C6)
 
-**Frontend**
+#### Frontend
 
-![HTML](https://img.shields.io/badge/HTML-161B22?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-161B22?style=flat-square&logo=css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-161B22?style=flat-square&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-161B22?style=flat-square&logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-161B22?style=flat-square&logo=vite&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-161B22?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-161B22?style=for-the-badge&logo=css&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-161B22?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-161B22?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![React](https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-161B22?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-161B22?style=for-the-badge&logo=vite&logoColor=646CFF)
 
-**Backend**
+#### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-161B22?style=flat-square&logo=express&logoColor=white)
-![Yii2](https://img.shields.io/badge/Yii2-161B22?style=flat-square&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-161B22?style=for-the-badge&logo=express&logoColor=white)
+![Yii2](https://img.shields.io/badge/Yii2-161B22?style=for-the-badge&logo=php&logoColor=40B3D8)
 
-**Database**
+#### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-161B22?style=flat-square&logo=firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Firebase](https://img.shields.io/badge/Firebase-161B22?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 
-**Cloud & Tools**
+#### Cloud & Tools
 
-![Huawei Cloud](https://img.shields.io/badge/Huawei_Cloud-161B22?style=flat-square&logo=huawei&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-161B22?style=flat-square&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-161B22?style=flat-square&logo=gitforwindows&logoColor=white)
+![Huawei Cloud](https://img.shields.io/badge/Huawei_Cloud-161B22?style=for-the-badge&logo=huawei&logoColor=FF0000)
+![Vercel](https://img.shields.io/badge/Vercel-161B22?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VS_Code-161B22?style=for-the-badge&logo=vscodium&logoColor=2F80ED)
 
-**Network**
+#### Network
 
-![Cisco](https://img.shields.io/badge/Cisco-161B22?style=flat-square&logo=cisco&logoColor=white)
-![Huawei eKit](https://img.shields.io/badge/Huawei_eKit-161B22?style=flat-square&logo=huawei&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-161B22?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
+![Huawei eKit](https://img.shields.io/badge/Huawei_eKit-161B22?style=for-the-badge&logo=huawei&logoColor=FF0000)
 
-**Creative**
+#### Creative
 
-![After Effects](https://img.shields.io/badge/After_Effects-161B22?style=flat-square&logo=adobeaftereffects&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-161B22?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-161B22?style=flat-square&logo=adobeillustrator&logoColor=white)
-![Sony Vegas Pro](https://img.shields.io/badge/Vegas_Pro-161B22?style=flat-square&logo=sony&logoColor=white)
-
-### Awards
-
-**RMUTT Channel Content Creator Award Season 2** &nbsp;
-![Winner](https://img.shields.io/badge/Winner-Short_Clip-2EA043?style=flat-square)
-![Scholarship](https://img.shields.io/badge/Scholarship-30%2C000_THB-161B22?style=flat-square)
-
-**Cloud Computing Management** · *AFTP vocational skills competition*
-
-| Year | Level | Result |
-|:-----|:------|:-------|
-| 2024 | National, 32nd | 2nd runner-up |
-| 2023 | Central Region, 31st | 1st runner-up · Gold standard |
-| 2023 | Lopburi Province | **Winner** · Gold standard |
-| 2023 | National, 31st | 4th runner-up |
-| 2022 | Central Region, 30th | 2nd runner-up · Silver standard |
-| 2022 | Lopburi Province | **Winner** · Gold standard |
+![After Effects](https://img.shields.io/badge/After_Effects-161B22?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF)
+![Photoshop](https://img.shields.io/badge/Photoshop-161B22?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
+![Illustrator](https://img.shields.io/badge/Illustrator-161B22?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00)
+![Sony Vegas Pro](https://img.shields.io/badge/Vegas_Pro-161B22?style=for-the-badge&logo=sony&logoColor=white)
 
 ### Connect
 
-<a href="https://github.com/Littlebluebies"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/thanakorn-pengklin"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.facebook.com/thanakorn.eiei.90"><img src="https://img.shields.io/badge/Facebook-161B22?style=flat-square&logo=facebook&logoColor=white" /></a>
-<a href="https://www.instagram.com/littlebluebies/"><img src="https://img.shields.io/badge/Instagram-161B22?style=flat-square&logo=instagram&logoColor=white" /></a>
-<a href="mailto:thanakornpengklin@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Littlebluebies"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/thanakorn-pengklin"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="https://www.facebook.com/thanakorn.eiei.90"><img src="https://img.shields.io/badge/Facebook-161B22?style=for-the-badge&logo=facebook&logoColor=0866FF" /></a>
+<a href="https://www.instagram.com/littlebluebies/"><img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
+<a href="mailto:thanakornpengklin@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
 
 <br/>
 
